@@ -94,6 +94,12 @@ nav{
         display: none;
     }
 }
+@media (max-width:323px) {
+    .first-btn{
+        padding: 0px;
+        /* display: none; */
+    }
+}
 
 /* HOME */
 .home{
