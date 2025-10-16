@@ -90,6 +90,7 @@ nav{
 }
 @media (max-width:337px) {
     .first-btn{
+        padding: 2px;
         display: none;
     }
 }
